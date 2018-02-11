@@ -7,4 +7,6 @@ Technology Used:
 #This application can be deployed using XAMPP version 1.7.7
 #Database - news.sql
 
+![Alt text](/images/Home.PNG?raw=true "Optional Title")
+
 ***All the articles and data used in this application are for demo purpose and should not be considered real facts***
